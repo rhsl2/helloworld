@@ -1,2 +1,2 @@
 # helloworld
-KOSTA 실습
+KOSTA 실습 저장소
